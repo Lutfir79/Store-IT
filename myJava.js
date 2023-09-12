@@ -25,11 +25,41 @@
                 link: 'https://amzn.to/44DV7RH'
             },
             {
-                brand: 'Redragon',
-                name: 'Steelseries Rival 5',
+                brand: 'StealSeries',
+                name: 'SteelSeries Rival 5',
                 image: 'Steel Series Rival 5.png',
                 link: 'https://amzn.to/3Z7BRea'
-            }
+            },
+	    {
+		brand: 'Razer',
+		name: 'Razer Mercury White',
+		image: 'Razer white.jpg',
+		link: 'https://amzn.to/3r9scqO'
+	   },
+	   {
+		brand: 'Razer',
+		name: 'Razer Basilisk Ultimate HyperSpeed',
+		image: 'Razer Basilisk Ultimate HyperSpeed.jpg',
+		link: 'https://amzn.to/44SToYC'
+	   },
+	   {
+		brand: 'Razer',
+		name : 'Razer Naga',
+		image: 'Razer Naga.jpg',
+		link: 'https://amzn.to/3EAzVBl'
+	   },
+	   {
+		brand: 'Razer',
+		name: 'Razer Mamba Elite',
+		image: 'Razer Mamba Elite.jpg',
+		link: 'https://amzn.to/3EyCAeO'
+	   },
+	   {
+		brand: 'Redragon',
+		name: 'Redragon M612 Predator RGB',
+		image: 'Redragon M612 Predator RGB.jpg',
+		link: 'https://amzn.to/45SHKOP'
+	   }
         ];
 
         // Function to show all items
