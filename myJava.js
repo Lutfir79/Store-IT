@@ -25,7 +25,7 @@
                 link: 'https://amzn.to/44DV7RH'
             },
             {
-                brand: 'StealSeries',
+                brand: 'SteelSeries',
                 name: 'SteelSeries Rival 5',
                 image: 'Steel Series Rival 5.png',
                 link: 'https://amzn.to/3Z7BRea'
