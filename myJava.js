@@ -24,6 +24,30 @@
                 image: 'Logitech G PRO X.png',
                 link: 'https://amzn.to/44DV7RH'
             },
+	    {
+		brand: 'Logitech',
+		name: 'Logitech G305 LIGHTSPEED',
+		image: 'Logitech G305 LIGHTSPEED.jpg',
+		link: 'https://amzn.to/3PDd2nh'
+	    },
+	    {
+		brand: 'Logitech',
+		name: 'Logitech G502 X Wired',
+		image: 'Logitech G502 X Wired.jpg',
+		link: 'https://amzn.to/44Qekzu'
+	    },
+	    {
+		brand: 'Logitech',
+		name: 'Logitech G502 Hero',
+		image: 'Logitech G502 Hero.jpg',
+		link: 'https://amzn.to/3Pkga6d'
+	    },
+	    {
+		brand: 'Logitech',
+		name: 'Logitech G203 Wired',
+		image: 'Logitech G203 Wired.jpg',
+		link: 'https://amzn.to/487CtEJ'
+	    },
             {
                 brand: 'SteelSeries',
                 name: 'SteelSeries Rival 5',
