@@ -94,7 +94,7 @@
                 <img src="${item.image}" alt="${item.name}" class="item-image">
                 <h2>${item.name}</h2>
                 <p>See Price for more &#128071;</p>
-                <button><a href="${item.link}">Amazon</a></button>
+                <button><a href="${item.link}" target='_blank'>Amazon</a></button>
             `;
             itemList.appendChild(itemCard);
         }
